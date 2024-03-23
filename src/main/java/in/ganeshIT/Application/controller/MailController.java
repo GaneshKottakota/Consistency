@@ -12,6 +12,7 @@ import in.ganeshIT.Application.service.EmailService;
 
 @Controller
 public class MailController {
+int a=5;
 	
 	@Autowired
 	private EmailService service;
